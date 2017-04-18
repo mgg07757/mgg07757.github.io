@@ -1,0 +1,19 @@
+body {
+ font-size: 30px; background-color: #e2c1ef; font-family:monospace;
+ }
+{"text-align:center"}
+.smaller {
+ font-size: 12px;
+ }
+.mydiv {  float: left
+ height: 300px;
+ width: 700px;
+    background-color: #c7def8; 
+    margin-right: 5px;
+    margin-left: auto
+ border-width: 2px;
+ border-style: solid;
+ border-color: #FFF;
+    font-family:monospace;
+
+ }
